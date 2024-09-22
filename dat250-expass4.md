@@ -73,6 +73,7 @@ erDiagram
 
 ```
 I used the IntelliJ database plugin to inspect the tables. To do this, I connected to the H2 database using the `DB.mv.db` file as a data source in IntelliJ. This allowed me to view the structure and data of each table directly in the IDE. The generated tables matched my initial expectations based on the entity classes and their relationships.
+
 ![img.png](img.png)
 .
 
