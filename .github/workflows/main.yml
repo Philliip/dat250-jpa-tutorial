@@ -1,7 +1,8 @@
 name: Experiment 2 tests
 
-on: [push]
- branches:
+on:
+  push:
+    branches:
       - master
 
 jobs:
