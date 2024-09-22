@@ -1,7 +1,6 @@
 package no.hvl.dat250.jpa.tutorial.creditcards;
 
 import jakarta.persistence.*;
-import no.hvl.dat250.jpa.tutorial.relationshipexample.Person;
 
 import java.util.*;
 

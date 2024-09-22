@@ -4,8 +4,6 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
 import no.hvl.dat250.jpa.tutorial.creditcards.*;
-import no.hvl.dat250.jpa.tutorial.relationshipexample.Family;
-import no.hvl.dat250.jpa.tutorial.relationshipexample.Person;
 
 public class CreditCardsMain {
 

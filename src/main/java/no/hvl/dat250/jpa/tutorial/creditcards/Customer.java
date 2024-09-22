@@ -3,7 +3,6 @@ package no.hvl.dat250.jpa.tutorial.creditcards;
 import java.util.*;
 
 import jakarta.persistence.*;
-import no.hvl.dat250.jpa.tutorial.relationshipexample.Job;
 
 @Entity
 public class Customer {
